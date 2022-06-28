@@ -33,7 +33,7 @@ namespace CapaDatos.Pagos
                 int i = cmd.ExecuteNonQuery();
                 if (i > 0) { validar = true; }
             }
-            catch (Exception ) { throw ; }
+            catch  { throw ; }
             finally { cmd.Connection.Close(); }
 
             return validar; 
@@ -77,7 +77,7 @@ namespace CapaDatos.Pagos
 
                 }
             }
-            catch (Exception ) { throw ; }
+            catch { throw ; }
             finally
             {
                 cmd.Connection.Close();

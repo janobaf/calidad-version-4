@@ -41,7 +41,7 @@ namespace CapaDatos.Alumnos
 
                 }
             }
-            catch (Exception ) { throw; }
+            catch { throw; }
             finally { cmd.Connection.Close(); }
 
 
@@ -85,7 +85,7 @@ namespace CapaDatos.Alumnos
                     aux.Add(alumno);
                 }
             }
-            catch (Exception ) { throw; }
+            catch  { throw; }
             finally { cmd.Connection.Close(); }
 
 
@@ -129,7 +129,7 @@ namespace CapaDatos.Alumnos
                     alumno.Alum_Telefono = dr["Alum_Telefono"].ToString();
                 }
             }
-            catch (Exception ) { throw; }
+            catch  { throw; }
             finally { cmd.Connection.Close(); }
 
             return alumno != null ? alumno : null;
@@ -157,7 +157,7 @@ namespace CapaDatos.Alumnos
                     id = Convert.ToInt32(dr["Alum_ID"].ToString());
                 
             }
-            catch (Exception ) { throw; }
+            catch { throw; }
             finally { cmd.Connection.Close(); } 
 
 

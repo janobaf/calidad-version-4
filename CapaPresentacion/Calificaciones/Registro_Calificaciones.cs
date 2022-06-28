@@ -51,7 +51,7 @@ namespace CapaPresentacion.InterfacesGraficas
             if(final_aix < 21 && final_aix > -1 && trabajos_aux >-1 && trabajos_aux<21 && parcial1_aux<21 && parcial1_aux>-1 && parcial2_aux < 21 && parcial2_aux > -1)
 
             {
-                float suma = (trabajos_aux + parcial1_aux + parcial2_aux + final_aix) / 4;
+                float suma = (float) (trabajos_aux + parcial1_aux + parcial2_aux + final_aix) / 4;
                 int promedio = (int)(suma);
                 PromediotextBox1.Text = promedio.ToString();
 

@@ -43,7 +43,7 @@ namespace CapaDatos.Alumnos
                 }
             }
 
-            catch (Exception ) { throw; }
+            catch { throw; }
             finally { cmd.Connection.Close(); }
             return validar ? id+1:-1 ;
         }
@@ -71,7 +71,7 @@ namespace CapaDatos.Alumnos
                 }
 
             }
-            catch (Exception ) { throw; }
+            catch{ throw; }
             finally{ cmd.Connection.Close(); }
             return validar;
         }
@@ -100,7 +100,7 @@ namespace CapaDatos.Alumnos
                      
                 }
             }
-            catch (Exception ) { throw; }
+            catch { throw; }
             finally
             {
                 cmd.Connection.Close();
@@ -125,7 +125,7 @@ namespace CapaDatos.Alumnos
                     if (dr["Curso_ID"].ToString() != null) validar = true;
                 }
             }
-            catch (Exception ) { throw; }
+            catch  { throw; }
             finally { cmd.Connection.Close(); }
 
             return validar;
@@ -152,7 +152,7 @@ namespace CapaDatos.Alumnos
                     listar.Add(aux);
                 }
             }
-            catch(Exception ) { throw ; }
+            catch{ throw ; }
             finally { cmd.Connection.Close(); }
 
             return listar != null ? listar : null;
@@ -173,7 +173,7 @@ namespace CapaDatos.Alumnos
                 if (i > 0) validar = true;
 
             }
-            catch (Exception ) { throw ; }
+            catch  { throw ; }
             finally { cmd.Connection.Close(); }
             return validar;
         } 

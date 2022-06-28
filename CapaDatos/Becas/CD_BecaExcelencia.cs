@@ -55,7 +55,7 @@ namespace CapaDatos.Becas
                     if (validar ) id = int.Parse(dr["BecaPorPromedio_id"].ToString());
                 }
             }
-            catch (Exception ) { throw ; }
+            catch  { throw ; }
             finally
             {
                 cmd.Connection.Close();
@@ -94,7 +94,7 @@ namespace CapaDatos.Becas
 
                 }
             }
-            catch (Exception ) { throw ; }
+            catch  { throw ; }
             finally
             {
                 cmd.Connection.Close();
@@ -143,7 +143,7 @@ namespace CapaDatos.Becas
                 }
 
             }
-            catch (Exception ) { throw ; }
+            catch  { throw ; }
             finally { cmd.Connection.Close(); } //!Cerramos la conexion
         }
 
@@ -182,7 +182,7 @@ namespace CapaDatos.Becas
                     //!Si se ejecuto con exito deve de devolver una valor entero mayor a 0
                     if (i > 0) { validar = true; this.enlazar_beca(dni); } //!Cambiamos el bool a true 
                 }
-                catch (Exception ) { throw ; }
+                catch { throw ; }
                 finally { cmd.Connection.Close(); } //!Cerramos la conexion
             
             //!Retornar el resultado final
@@ -213,7 +213,7 @@ namespace CapaDatos.Becas
                     }
                 }
             }
-            catch(Exception ) { throw ; }
+            catch{ throw ; }
             finally { cmd.Connection.Close(); }
             return validar;
         }
@@ -232,7 +232,7 @@ namespace CapaDatos.Becas
                 //!Si se ejecuto con exito deve de devolver una valor entero mayor a 0
                 if (i > 0) { validar = true;  }
             }
-            catch (Exception ) { throw ; }
+            catch { throw ; }
             finally { cmd.Connection.Close(); }
             return validar;
         }
@@ -260,7 +260,7 @@ namespace CapaDatos.Becas
 
                 }
             }
-            catch (Exception ) { throw ; }
+            catch  { throw ; }
             finally { cmd.Connection.Close(); }
             return aux != null ? aux : null;
 

@@ -61,7 +61,7 @@ namespace CapaDatos.Calificaciones
                     if (validar )  id = int.Parse(dr["Califi_ID"].ToString());
                 }
             }
-            catch (Exception ) { throw ; }
+            catch  { throw ; }
             finally
             {
                 cmd.Connection.Close();
@@ -84,7 +84,7 @@ namespace CapaDatos.Calificaciones
                 cn.Open();
                 cmd.ExecuteNonQuery();
             }
-            catch (Exception) { throw ; }
+            catch { throw ; }
             finally{cmd.Connection.Close(); }
         }
         public bool crear_calificaciones(string dni, E_Calificaciones e)
@@ -119,7 +119,7 @@ namespace CapaDatos.Calificaciones
                 }
 
             }
-            catch (Exception ) { throw ; }
+            catch  { throw ; }
             finally { cmd.Connection.Close(); }
             return validar;
         }
@@ -156,7 +156,7 @@ namespace CapaDatos.Calificaciones
 
                 }
             }
-            catch (Exception ) { throw ; }
+            catch  { throw ; }
             finally
             {
                 cmd.Connection.Close();
@@ -203,7 +203,7 @@ namespace CapaDatos.Calificaciones
                     //!Si se ejecuto con exito deve de devolver una valor entero mayor a 0
                     if (i > 0) { validar = true;  } //!Cambiamos el bool a true y llamamos a una funcion
                 }
-                catch (Exception ) { throw ; }
+                catch { throw ; }
                 finally { cmd.Connection.Close(); } //!Cerramos la conexion
             }
             //!Retornar el resultado final
@@ -247,7 +247,7 @@ namespace CapaDatos.Calificaciones
                     //!Si se ejecuto con exito deve de devolver una valor entero mayor a 0
                     if (i > 0) { validar = true; } //!Cambiamos el bool a true y llamamos a una funcion
                 }
-                catch (Exception ) { throw ; }
+                catch  { throw ; }
                 finally { cmd.Connection.Close(); } //!Cerramos la conexion
             }
             //!Retornar el resultado final
@@ -292,7 +292,7 @@ namespace CapaDatos.Calificaciones
                     //!Si se ejecuto con exito deve de devolver una valor entero mayor a 0
                     if (i > 0) { validar = true; } //!Cambiamos el bool a true y llamamos a una funcion
                 }
-                catch (Exception ) { throw ; }
+                catch { throw ; }
                 finally { cmd.Connection.Close(); } //!Cerramos la conexion
             }
             //!Retornar el resultado final
@@ -337,7 +337,7 @@ namespace CapaDatos.Calificaciones
                     //!Si se ejecuto con exito deve de devolver una valor entero mayor a 0
                     if (i > 0) { validar = true; } //!Cambiamos el bool a true y llamamos a una funcion
                 }
-                catch (Exception ) { throw ; }
+                catch  { throw ; }
                 finally { cmd.Connection.Close(); } //!Cerramos la conexion
             }
             //!Retornar el resultado final
@@ -383,7 +383,7 @@ namespace CapaDatos.Calificaciones
                     //!Si se ejecuto con exito deve de devolver una valor entero mayor a 0
                     if (i > 0) { validar = true; } //!Cambiamos el bool a true y llamamos a una funcion
                 }
-                catch (Exception ) { throw ; }
+                catch { throw ; }
                 finally { cmd.Connection.Close(); } //!Cerramos la conexion
             }
             //!Retornar el resultado final

@@ -41,7 +41,7 @@ namespace CapaDatos.Inscripcion
                 cn.Open();
                 int i = cmd.ExecuteNonQuery();
                 if (i > 0) validar = true;
-            } catch (Exception ) { throw ; }
+            } catch  { throw ; }
              finally { cmd.Connection.Close(); }
 
             return validar;
@@ -79,7 +79,7 @@ namespace CapaDatos.Inscripcion
                 if(i>0) { verificar = true; }
             }
 
-            catch (Exception ) { throw ; }
+            catch { throw ; }
             finally { cmd.Connection.Close(); }
             return verificar;
         }
@@ -115,7 +115,7 @@ namespace CapaDatos.Inscripcion
 
                 }
             }
-            catch(Exception ) { throw ; }
+            catch { throw ; }
             finally
             {
                 cmd.Connection.Close();
@@ -157,7 +157,7 @@ namespace CapaDatos.Inscripcion
             }
             cmd.Connection.Close();
 
-            return alumno != null ? alumno : null;
+            return alumno ;
         }
         #endregion metodos
     }
