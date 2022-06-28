@@ -1,0 +1,8 @@
+﻿C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\Alumnos\CD_Alumno.cs
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\Alumnos\CD_Curso.cs
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\Becas\CD_BecaExcelencia.cs
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\Calificaciones\CD_Calificacines.cs
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\Conexion.cs
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\Inscripcion\D_Crear_Inscripcion.cs
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\Pagos\CD_Pagos.cs
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\Properties\AssemblyInfo.cs

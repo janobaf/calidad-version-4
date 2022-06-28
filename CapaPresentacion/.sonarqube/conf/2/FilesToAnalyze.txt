@@ -1,0 +1,7 @@
+﻿C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\Alumno\L_Alumno.cs
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\Becas\CL_BecaExcelencia.cs
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\Calificaciones\CL_calificaciones.cs
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\Curso\CL_Curso.cs
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\Pagos\L_Pagos.cs
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\Properties\AssemblyInfo.cs
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\Properties\Resources.resx

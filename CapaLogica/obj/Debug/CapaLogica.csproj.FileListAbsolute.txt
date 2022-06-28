@@ -1,0 +1,52 @@
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaLogica\obj\Debug\CapaLogica.Properties.Resources.resources
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaLogica\obj\Debug\CapaLogica.csproj.GenerateResource.cache
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaLogica\obj\Debug\CapaLogica.Properties.Resources.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaLogica\obj\Debug\CapaLogica.csproj.GenerateResource.cache
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\obj\Debug\CapaLogica.Properties.Resources.resources
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\obj\Debug\CapaLogica.csproj.GenerateResource.cache
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\obj\Debug\CapaLogica.pdb
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\bin\Debug\CapaLogica.dll
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\bin\Debug\CapaLogica.pdb
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\bin\Debug\CapaDatos.dll
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\bin\Debug\CapaEntidad.dll
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\bin\Debug\CapaDatos.pdb
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\bin\Debug\CapaEntidad.pdb
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\obj\Debug\CapaLogica.Properties.Resources.resources
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\obj\Debug\CapaLogica.csproj.GenerateResource.cache
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\obj\Debug\CapaLogica.dll
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaLogica\obj\Debug\CapaLogica.pdb

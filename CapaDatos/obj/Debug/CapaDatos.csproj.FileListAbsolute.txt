@@ -1,0 +1,36 @@
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\obj\Debug\CapaDatos.pdb
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\bin\Debug\CapaDatos.dll
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\bin\Debug\CapaDatos.pdb
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\bin\Debug\CapaEntidad.dll
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\bin\Debug\CapaEntidad.pdb
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\obj\Debug\CapaDatos.dll
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaDatos\obj\Debug\CapaDatos.pdb

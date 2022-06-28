@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>CapaEntidad</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>d0a274b8-eb7b-43e0-8fab-fdf7c099b2fa</ProjectGuid>
+  <FullPath>C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaEntidad\CapaEntidad.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\.sonarqube\conf\0\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\.sonarqube\out\0\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\.sonarqube\out\0</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+</ProjectInfo>

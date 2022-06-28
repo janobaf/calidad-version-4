@@ -1,0 +1,1128 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "4.2.0.0",
+        "fileVersion": "4.2.0-4.22252.24 (47cdc16a)",
+        "semanticVersion": "4.2.0",
+        "language": "es-MX"
+      },
+      "results": [
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CL_Curso' to match pascal case naming rules, consider using 'ClCurso'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Curso/CL_Curso.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 18,
+                  "endLine": 10,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CL_BecaExcelencia' to match pascal case naming rules, consider using 'ClBecaExcelencia'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Becas/CL_BecaExcelencia.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 18,
+                  "endLine": 14,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'L_Pagos' to match pascal case naming rules, consider using 'LPagos'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Pagos/L_Pagos.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 18,
+                  "endLine": 11,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'L_Alumno' to match pascal case naming rules, consider using 'LAlumno'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 18,
+                  "endLine": 11,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CL_calificaciones' to match pascal case naming rules, consider using 'Clcalificaciones'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Calificaciones/CL_calificaciones.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 18,
+                  "endLine": 11,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Curso/CL_Curso.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 68,
+                  "endLine": 15,
+                  "endColumn": 80
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Curso/CL_Curso.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 58,
+                  "endLine": 15,
+                  "endColumn": 65
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Calificaciones/CL_calificaciones.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 99,
+                  "endLine": 26,
+                  "endColumn": 111
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Calificaciones/CL_calificaciones.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 89,
+                  "endLine": 26,
+                  "endColumn": 96
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Curso/CL_Curso.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 86,
+                  "endLine": 25,
+                  "endColumn": 98
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Curso/CL_Curso.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 76,
+                  "endLine": 25,
+                  "endColumn": 83
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Calificaciones/CL_calificaciones.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 109,
+                  "endLine": 35,
+                  "endColumn": 121
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Calificaciones/CL_calificaciones.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 99,
+                  "endLine": 35,
+                  "endColumn": 106
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Calificaciones/CL_calificaciones.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 110,
+                  "endLine": 40,
+                  "endColumn": 122
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Calificaciones/CL_calificaciones.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 100,
+                  "endLine": 40,
+                  "endColumn": 107
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Calificaciones/CL_calificaciones.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 110,
+                  "endLine": 44,
+                  "endColumn": 122
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Calificaciones/CL_calificaciones.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 100,
+                  "endLine": 44,
+                  "endColumn": 107
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'alumno'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Pagos/L_Pagos.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 26,
+                  "endLine": 31,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Pagos/L_Pagos.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 21,
+                  "endLine": 35,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Pagos/L_Pagos.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 17,
+                  "endLine": 33,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 38,
+                  "endLine": 47,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3776",
+          "level": "warning",
+          "message": "Refactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 22,
+                  "endLine": 21,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 13,
+                  "endLine": 26,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 27,
+                  "endLine": 26,
+                  "endColumn": 29
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 17,
+                  "endLine": 28,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 21,
+                  "endLine": 34,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 25,
+                  "endLine": 36,
+                  "endColumn": 28
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 29,
+                  "endLine": 38,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 29,
+                  "endLine": 42,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 25,
+                  "endLine": 45,
+                  "endColumn": 28
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 25,
+                  "endLine": 46,
+                  "endColumn": 27
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 52,
+                  "endLine": 46,
+                  "endColumn": 54
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 25,
+                  "endLine": 47,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "+1",
+              "1": "+1",
+              "10": "+4 (incl 3 for nesting)",
+              "2": "+2 (incl 1 for nesting)",
+              "3": "+3 (incl 2 for nesting)",
+              "4": "+4 (incl 3 for nesting)",
+              "5": "+5 (incl 4 for nesting)",
+              "6": "+5 (incl 4 for nesting)",
+              "7": "+4 (incl 3 for nesting)",
+              "8": "+4 (incl 3 for nesting)",
+              "9": "+1"
+            }
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'calificaciones'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Becas/CL_BecaExcelencia.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 30,
+                  "endLine": 32,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Becas/CL_BecaExcelencia.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 21,
+                  "endLine": 38,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Becas/CL_BecaExcelencia.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 17,
+                  "endLine": 36,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Calificaciones/CL_calificaciones.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 107,
+                  "endLine": 52,
+                  "endColumn": 119
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Calificaciones/CL_calificaciones.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 97,
+                  "endLine": 52,
+                  "endColumn": 104
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Calificaciones/CL_calificaciones.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 110,
+                  "endLine": 57,
+                  "endColumn": 122
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Calificaciones/CL_calificaciones.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 100,
+                  "endLine": 57,
+                  "endColumn": 107
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 17,
+                  "endLine": 28,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 13,
+                  "endLine": 26,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 70,
+                  "endLine": 61,
+                  "endColumn": 75
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Becas/CL_BecaExcelencia.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 17,
+                  "endLine": 57,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Becas/CL_BecaExcelencia.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 13,
+                  "endLine": 56,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 17,
+                  "endLine": 61,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 13,
+                  "endLine": 60,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 62,
+                  "startColumn": 21,
+                  "endLine": 62,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 17,
+                  "endLine": 61,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 68,
+                  "endLine": 92,
+                  "endColumn": 80
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 57,
+                  "endLine": 92,
+                  "endColumn": 64
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1854",
+          "level": "warning",
+          "message": "Remove this useless assignment to local variable 'lista'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 84,
+                  "startColumn": 28,
+                  "endLine": 84,
+                  "endColumn": 56
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1116",
+          "level": "warning",
+          "message": "Remove this empty statement.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 84,
+                  "startColumn": 58,
+                  "endLine": 84,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1643",
+          "level": "warning",
+          "message": "Use a StringBuilder instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaLogica/Alumno/L_Alumno.cs",
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 75,
+                  "endLine": 45,
+                  "endColumn": 92
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S101": {
+          "id": "S101",
+          "shortDescription": "Types should be named in PascalCase",
+          "fullDescription": "Shared naming conventions allow teams to collaborate efficiently. This rule checks whether or not type names are using PascalCase. To reduce noise, two consecutive upper case characters are allowed unless they form the whole type name. So, MyXClass is compliant, but XC on its own is not.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-101",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1066": {
+          "id": "S1066",
+          "shortDescription": "Collapsible \"if\" statements should be merged",
+          "fullDescription": "Merging collapsible if statements increases the code’s readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1066",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1116": {
+          "id": "S1116",
+          "shortDescription": "Empty statements should be removed",
+          "fullDescription": "Empty statements, i.e. ;, are usually introduced by mistake, for example because:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1116",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1125": {
+          "id": "S1125",
+          "shortDescription": "Boolean literals should not be redundant",
+          "fullDescription": "Redundant Boolean literals should be removed from expressions to improve readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1125",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1643": {
+          "id": "S1643",
+          "shortDescription": "Strings should not be concatenated using '+' in a loop",
+          "fullDescription": "StringBuilder is more efficient than string concatenation, especially when the operator is repeated over and over as in loops.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1643",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S1854": {
+          "id": "S1854",
+          "shortDescription": "Unused assignments should be removed",
+          "fullDescription": "A dead store happens when a local variable is assigned a value that is not read by any subsequent instruction. Calculating or retrieving a value only to then overwrite it or throw it away, could indicate a serious error in the code. Even if it’s not an error, it is at best a waste of resources. Therefore all calculated values should be used.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1854",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S3776": {
+          "id": "S3776",
+          "shortDescription": "Cognitive Complexity of methods should not be too high",
+          "fullDescription": "Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3776",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

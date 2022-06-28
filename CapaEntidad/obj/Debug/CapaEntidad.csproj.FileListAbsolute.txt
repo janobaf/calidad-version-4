@@ -1,0 +1,24 @@
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaEntidad\obj\Debug\CapaEntidad.pdb
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaEntidad\bin\Debug\CapaEntidad.dll
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaEntidad\bin\Debug\CapaEntidad.pdb
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaEntidad\obj\Debug\CapaEntidad.dll
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaEntidad\obj\Debug\CapaEntidad.pdb

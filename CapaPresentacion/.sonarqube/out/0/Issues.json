@@ -1,0 +1,141 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "4.2.0.0",
+        "fileVersion": "4.2.0-4.22252.24 (47cdc16a)",
+        "semanticVersion": "4.2.0",
+        "language": "es-MX"
+      },
+      "results": [
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'E_BecaPorPromedio' to match pascal case naming rules, consider using 'EBecaPorPromedio'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaEntidad/Becas/E_BecaPorPromedio.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 18,
+                  "endLine": 9,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'E_Alumn_Beca' to match pascal case naming rules, consider using 'EAlumnBeca'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaEntidad/Alumno/E_Alumn_Beca.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 19,
+                  "endLine": 9,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'E_Calificaciones' to match pascal case naming rules, consider using 'ECalificaciones'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaEntidad/Calificaciones/E_Calificaciones.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 19,
+                  "endLine": 9,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'E_Alumno' to match pascal case naming rules, consider using 'EAlumno'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaEntidad/Alumno/E_Alumno.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 18,
+                  "endLine": 9,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'E_Curso' to match pascal case naming rules, consider using 'ECurso'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaEntidad/Curso/E_Curso.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 19,
+                  "endLine": 9,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S101": {
+          "id": "S101",
+          "shortDescription": "Types should be named in PascalCase",
+          "fullDescription": "Shared naming conventions allow teams to collaborate efficiently. This rule checks whether or not type names are using PascalCase. To reduce noise, two consecutive upper case characters are allowed unless they form the whole type name. So, MyXClass is compliant, but XC on its own is not.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-101",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1313 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "4.2.0.0",
+        "fileVersion": "4.2.0-4.22252.24 (47cdc16a)",
+        "semanticVersion": "4.2.0",
+        "language": "es-MX"
+      },
+      "results": [
+        {
+          "ruleId": "S1135",
+          "level": "warning",
+          "message": "Complete the task associated to this 'TODO' comment.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Calificaciones/CD_Calificacines.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 12,
+                  "endLine": 23,
+                  "endColumn": 16
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CD_Calificacines' to match pascal case naming rules, consider using 'CdCalificacines'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Calificaciones/CD_Calificacines.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 18,
+                  "endLine": 12,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CD_BecaExcelencia' to match pascal case naming rules, consider using 'CdBecaExcelencia'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Becas/CD_BecaExcelencia.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 18,
+                  "endLine": 13,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'D_Crear_Inscripcion' to match pascal case naming rules, consider using 'DCrearInscripcion'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Inscripcion/D_Crear_Inscripcion.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 18,
+                  "endLine": 11,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CD_Alumno' to match pascal case naming rules, consider using 'CdAlumno'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Alumnos/CD_Alumno.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 18,
+                  "endLine": 11,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CD_Curso' to match pascal case naming rules, consider using 'CdCurso'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Alumnos/CD_Curso.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 18,
+                  "endLine": 11,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CD_Pagos' to match pascal case naming rules, consider using 'CdPagos'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Pagos/CD_Pagos.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 18,
+                  "endLine": 11,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Calificaciones/CD_Calificacines.cs",
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 33,
+                  "endLine": 61,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Calificaciones/CD_Calificacines.cs",
+                "region": {
+                  "startLine": 71,
+                  "startColumn": 28,
+                  "endLine": 71,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Alumnos/CD_Curso.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 33,
+                  "endLine": 42,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Alumnos/CD_Curso.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 28,
+                  "endLine": 49,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1125",
+          "level": "warning",
+          "message": "Remove the unnecessary Boolean literal(s).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Becas/CD_BecaExcelencia.cs",
+                "region": {
+                  "startLine": 55,
+                  "startColumn": 33,
+                  "endLine": 55,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Calificaciones/CD_Calificacines.cs",
+                "region": {
+                  "startLine": 65,
+                  "startColumn": 35,
+                  "endLine": 65,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Alumnos/CD_Curso.cs",
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 35,
+                  "endLine": 47,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Alumnos/CD_Alumno.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 35,
+                  "endLine": 44,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Becas/CD_BecaExcelencia.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 35,
+                  "endLine": 59,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Pagos/CD_Pagos.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 35,
+                  "endLine": 37,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Inscripcion/D_Crear_Inscripcion.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 37,
+                  "endLine": 44,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1751",
+          "level": "warning",
+          "message": "Refactor the containing loop to do more than one iteration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Alumnos/CD_Curso.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 21,
+                  "endLine": 43,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'registro'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Pagos/CD_Pagos.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 31,
+                  "endLine": 32,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1751",
+          "level": "warning",
+          "message": "Refactor the containing loop to do more than one iteration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Becas/CD_BecaExcelencia.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 21,
+                  "endLine": 56,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1751",
+          "level": "warning",
+          "message": "Refactor the containing loop to do more than one iteration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Calificaciones/CD_Calificacines.cs",
+                "region": {
+                  "startLine": 62,
+                  "startColumn": 21,
+                  "endLine": 62,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Alumnos/CD_Curso.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 35,
+                  "endLine": 75,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Inscripcion/D_Crear_Inscripcion.cs",
+                "region": {
+                  "startLine": 82,
+                  "startColumn": 36,
+                  "endLine": 82,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Calificaciones/CD_Calificacines.cs",
+                "region": {
+                  "startLine": 88,
+                  "startColumn": 35,
+                  "endLine": 88,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Pagos/CD_Pagos.cs",
+                "region": {
+                  "startLine": 81,
+                  "startColumn": 35,
+                  "endLine": 81,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Alumnos/CD_Alumno.cs",
+                "region": {
+                  "startLine": 88,
+                  "startColumn": 35,
+                  "endLine": 88,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Becas/CD_BecaExcelencia.cs",
+                "region": {
+                  "startLine": 99,
+                  "startColumn": 35,
+                  "endLine": 99,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2259",
+          "level": "warning",
+          "message": "'cmd' is null on at least one execution path.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Alumnos/CD_Curso.cs",
+                "region": {
+                  "startLine": 76,
+                  "startColumn": 22,
+                  "endLine": 76,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Becas/CD_BecaExcelencia.cs",
+                "region": {
+                  "startLine": 148,
+                  "startColumn": 35,
+                  "endLine": 148,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Becas/CD_BecaExcelencia.cs",
+                "region": {
+                  "startLine": 187,
+                  "startColumn": 39,
+                  "endLine": 187,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Inscripcion/D_Crear_Inscripcion.cs",
+                "region": {
+                  "startLine": 118,
+                  "startColumn": 34,
+                  "endLine": 118,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Alumnos/CD_Alumno.cs",
+                "region": {
+                  "startLine": 132,
+                  "startColumn": 35,
+                  "endLine": 132,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1751",
+          "level": "warning",
+          "message": "Refactor the containing loop to do more than one iteration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Becas/CD_BecaExcelencia.cs",
+                "region": {
+                  "startLine": 96,
+                  "startColumn": 21,
+                  "endLine": 96,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Calificaciones/CD_Calificacines.cs",
+                "region": {
+                  "startLine": 123,
+                  "startColumn": 35,
+                  "endLine": 123,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2259",
+          "level": "warning",
+          "message": "'cmd' is null on at least one execution path.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Becas/CD_BecaExcelencia.cs",
+                "region": {
+                  "startLine": 149,
+                  "startColumn": 23,
+                  "endLine": 149,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Calificaciones/CD_Calificacines.cs",
+                "region": {
+                  "startLine": 161,
+                  "startColumn": 35,
+                  "endLine": 161,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Alumnos/CD_Alumno.cs",
+                "region": {
+                  "startLine": 165,
+                  "startColumn": 35,
+                  "endLine": 165,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Becas/CD_BecaExcelencia.cs",
+                "region": {
+                  "startLine": 218,
+                  "startColumn": 34,
+                  "endLine": 218,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1751",
+          "level": "warning",
+          "message": "Refactor the containing loop to do more than one iteration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Calificaciones/CD_Calificacines.cs",
+                "region": {
+                  "startLine": 158,
+                  "startColumn": 21,
+                  "endLine": 158,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Calificaciones/CD_Calificacines.cs",
+                "region": {
+                  "startLine": 208,
+                  "startColumn": 39,
+                  "endLine": 208,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2259",
+          "level": "warning",
+          "message": "'cmd' is null on at least one execution path.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Calificaciones/CD_Calificacines.cs",
+                "region": {
+                  "startLine": 124,
+                  "startColumn": 23,
+                  "endLine": 124,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Becas/CD_BecaExcelencia.cs",
+                "region": {
+                  "startLine": 237,
+                  "startColumn": 35,
+                  "endLine": 237,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1751",
+          "level": "warning",
+          "message": "Refactor the containing loop to do more than one iteration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Alumnos/CD_Alumno.cs",
+                "region": {
+                  "startLine": 162,
+                  "startColumn": 21,
+                  "endLine": 162,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'alumno'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Alumnos/CD_Alumno.cs",
+                "region": {
+                  "startLine": 145,
+                  "startColumn": 22,
+                  "endLine": 145,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Calificaciones/CD_Calificacines.cs",
+                "region": {
+                  "startLine": 252,
+                  "startColumn": 39,
+                  "endLine": 252,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Becas/CD_BecaExcelencia.cs",
+                "region": {
+                  "startLine": 265,
+                  "startColumn": 35,
+                  "endLine": 265,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2583",
+          "level": "warning",
+          "message": "Change this condition so that it does not always evaluate to 'true'; some subsequent code is never executed.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Inscripcion/D_Crear_Inscripcion.cs",
+                "region": {
+                  "startLine": 160,
+                  "startColumn": 20,
+                  "endLine": 160,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Inscripcion/D_Crear_Inscripcion.cs",
+                "region": {
+                  "startLine": 160,
+                  "startColumn": 46,
+                  "endLine": 160,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Alumnos/CD_Curso.cs",
+                "region": {
+                  "startLine": 127,
+                  "startColumn": 35,
+                  "endLine": 127,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Alumnos/CD_Curso.cs",
+                "region": {
+                  "startLine": 104,
+                  "startColumn": 35,
+                  "endLine": 104,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Calificaciones/CD_Calificacines.cs",
+                "region": {
+                  "startLine": 297,
+                  "startColumn": 39,
+                  "endLine": 297,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Calificaciones/CD_Calificacines.cs",
+                "region": {
+                  "startLine": 342,
+                  "startColumn": 39,
+                  "endLine": 342,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3445",
+          "level": "warning",
+          "message": "Consider using 'throw;' to preserve the stack trace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Calificaciones/CD_Calificacines.cs",
+                "region": {
+                  "startLine": 388,
+                  "startColumn": 39,
+                  "endLine": 388,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2583",
+          "level": "warning",
+          "message": "Change this condition so that it does not always evaluate to 'true'; some subsequent code is never executed.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Becas/CD_BecaExcelencia.cs",
+                "region": {
+                  "startLine": 292,
+                  "startColumn": 20,
+                  "endLine": 292,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/artur/Downloads/Calidad_Proyecto%204/Calidad_version_1-master/CapaDatos/Becas/CD_BecaExcelencia.cs",
+                "region": {
+                  "startLine": 292,
+                  "startColumn": 41,
+                  "endLine": 292,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S101": {
+          "id": "S101",
+          "shortDescription": "Types should be named in PascalCase",
+          "fullDescription": "Shared naming conventions allow teams to collaborate efficiently. This rule checks whether or not type names are using PascalCase. To reduce noise, two consecutive upper case characters are allowed unless they form the whole type name. So, MyXClass is compliant, but XC on its own is not.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-101",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1125": {
+          "id": "S1125",
+          "shortDescription": "Boolean literals should not be redundant",
+          "fullDescription": "Redundant Boolean literals should be removed from expressions to improve readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1125",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1135": {
+          "id": "S1135",
+          "shortDescription": "Track uses of \"TODO\" tags",
+          "fullDescription": "TODO tags are commonly used to mark places where some more code is required, but which the developer wants to implement later.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1135",
+          "properties": {
+            "category": "Info Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1481": {
+          "id": "S1481",
+          "shortDescription": "Unused local variables should be removed",
+          "fullDescription": "If a local variable is declared but not used, it is dead code and should be removed. Doing so will improve maintainability because developers will not wonder what the variable is used for.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1481",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1751": {
+          "id": "S1751",
+          "shortDescription": "Loops with at most one iteration should be refactored",
+          "fullDescription": "A loop with at most one iteration is equivalent to the use of an if statement to conditionally execute one piece of code. If the initial intention of the author was really to conditionally execute one piece of code, an if statement should be used instead. If that was not the initial intention of the author, the body of the loop should be fixed to use the nested return, break or throw statements in a more appropriate way.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1751",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S2259": {
+          "id": "S2259",
+          "shortDescription": "Null pointers should not be dereferenced",
+          "fullDescription": "A reference to null should never be dereferenced/accessed. Doing so will cause a NullReferenceException to be thrown. At best, such an exception will cause abrupt program termination. At worst, it could expose debugging information that would be useful to an attacker, or it could allow an attacker to bypass security measures.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2259",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        },
+        "S2583": {
+          "id": "S2583",
+          "shortDescription": "Conditionally executed code should be reachable",
+          "fullDescription": "Conditional expressions which are always true or false can lead to dead code. Such code is always buggy and should never be used in production.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2583",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S3445": {
+          "id": "S3445",
+          "shortDescription": "Exceptions should not be explicitly rethrown",
+          "fullDescription": "When rethrowing an exception, you should do it by simply calling throw; and not throw exc;, because the stack trace is reset with the second syntax, making debugging a lot harder.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3445",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.Becas_Por_Exelencia.resources
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.ListarAlumnos.resources
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.Registro_Alumno.resources
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.Inscripcion.Modificar_Alumno.resources
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Listar_Calificaciones.resources
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.Calificaciones.Modificar_Calificaciones.resources
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Registro_Calificaciones.resources
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Listar_Curso.resources
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Registro_Curso.resources
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.p_inscripcionprincipal.resources
+C:\Users\artur\Documents\Calidad\grupo1_v1\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Inscripcion.Modificar_Alumno.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.p_inscripcionprincipal.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Becas_Por_Exelencia.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.ListarAlumnos.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Registro_Alumno.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Listar_Calificaciones.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Calificaciones.Modificar_Calificaciones.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Registro_Calificaciones.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Listar_Curso.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Registro_Curso.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.MenuPrincipal.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Alumnos.M_alumno.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Curso.M_Curso.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto_3\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Calificaciones.M_Calificaciones.resources
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Inscripcion.Modificar_Alumno.resources
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Alumnos.M_alumno.resources
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Becas_Por_Exelencia.resources
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.ListarAlumnos.resources
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Registro_Alumno.resources
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Listar_Calificaciones.resources
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Calificaciones.Modificar_Calificaciones.resources
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Calificaciones.M_Calificaciones.resources
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Registro_Calificaciones.resources
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Listar_Curso.resources
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Curso.M_Curso.resources
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Registro_Curso.resources
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.MenuPrincipal.resources
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaEntidad.dll
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaLogica.dll
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaLogica.pdb
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\BACKUP NEW\marco\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Inscripcion.Modificar_Alumno.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Alumnos.M_alumno.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Becas_Por_Exelencia.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.ListarAlumnos.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Registro_Alumno.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Listar_Calificaciones.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Calificaciones.Modificar_Calificaciones.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Calificaciones.M_Calificaciones.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Registro_Calificaciones.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Listar_Curso.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Curso.M_Curso.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Registro_Curso.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.MenuPrincipal.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Dracz\Documents\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Inscripcion.Modificar_Alumno.resources
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Alumnos.M_alumno.resources
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Becas_Por_Exelencia.resources
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.ListarAlumnos.resources
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Registro_Alumno.resources
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Listar_Calificaciones.resources
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Calificaciones.Modificar_Calificaciones.resources
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Calificaciones.M_Calificaciones.resources
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Registro_Calificaciones.resources
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Listar_Curso.resources
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Curso.M_Curso.resources
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Registro_Curso.resources
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.MenuPrincipal.resources
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.becas.Crear_beca.resources
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.becas.Becas_principal.resources
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Curso.Listar_Curso_Estado.resources
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaEntidad.dll
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaLogica.dll
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaDatos.dll
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaLogica.pdb
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\bin\Debug\CapaDatos.pdb
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Inscripcion.Modificar_Alumno.resources
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Alumnos.M_alumno.resources
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Becas_Por_Exelencia.resources
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.ListarAlumnos.resources
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Registro_Alumno.resources
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.becas.Becas_principal.resources
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.becas.Crear_beca.resources
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Listar_Calificaciones.resources
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Calificaciones.Modificar_Calificaciones.resources
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Calificaciones.M_Calificaciones.resources
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Registro_Calificaciones.resources
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Listar_Curso.resources
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Curso.Listar_Curso_Estado.resources
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Curso.M_Curso.resources
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.InterfacesGraficas.Registro_Curso.resources
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.MenuPrincipal.resources
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+\\VBOXSVR\windows_vm_compartido\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

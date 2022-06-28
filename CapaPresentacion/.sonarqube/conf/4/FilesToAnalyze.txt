@@ -1,0 +1,17 @@
+﻿C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPruebas\Alumnos\T_Alumnos.cs
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPruebas\Calificaciones\T_Calificaciones.cs
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPruebas\Inscripcion\TestAlumno.cs
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPruebas\Becas\TestBecas_Hexelencia.cs
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPruebas\Pagos\pagos.cs
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPruebas\Properties\AssemblyInfo.cs
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\packages\MSTest.TestAdapter.2.2.7\build\_common\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\packages\MSTest.TestAdapter.2.2.7\build\_common\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\packages\MSTest.TestAdapter.2.2.7\build\_common\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\packages\MSTest.TestAdapter.2.2.7\build\_common\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\packages\MSTest.TestAdapter.2.2.7\build\_common\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\packages\MSTest.TestAdapter.2.2.7\build\_common\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\packages\MSTest.TestAdapter.2.2.7\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\packages\MSTest.TestAdapter.2.2.7\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\packages\MSTest.TestAdapter.2.2.7\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPresentacion\packages\MSTest.TestAdapter.2.2.7\build\net45\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\artur\Downloads\Calidad_Proyecto 4\Calidad_version_1-master\CapaPruebas\packages.config
